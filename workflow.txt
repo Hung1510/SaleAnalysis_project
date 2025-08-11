@@ -1,0 +1,13 @@
+1:
+Python(panda,numpy,seaborn,matplotlib)
+EDA
+excel
+Power BI
+
+2:
+For sale analysis
+-1 data understanding
+-2 data cleaning 
+-3 data preparation /  data cleaning and exploratory data analysis
+
+3: do the dashboard
